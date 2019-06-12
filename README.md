@@ -31,7 +31,7 @@ moves to that tiny NYC studio after college).
 
 - An owner should know about its pets! Instances of the `Owner` class should be
   initialized with an `@pets` variable, set equal to the following hash:
-  `{fishes: [], cats: [], dogs: []}`
+  ``{fishes: [], cats: [], dogs: []}
 
 - An owner should be able to buy and sell pets, and therefore alter the `@pets`
   hash. You will therefore need a setter and a getter method (`attr_accessor`)
